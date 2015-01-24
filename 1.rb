@@ -19,3 +19,4 @@ day %= (365 * quantity_year + leap_year_counter)
 puts 'quantity_year: ' + (quantity_year).to_s
 puts 'mount: ' + (day / 30).to_s
 puts 'day: ' + (day % 30).to_s
+
