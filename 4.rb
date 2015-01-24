@@ -49,3 +49,4 @@ arr_copy = arr.dup
   print arr_copy[min_index], ' '
   arr_copy.delete_at(min_index)
 end
+
